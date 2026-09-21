@@ -1,0 +1,6 @@
+{
+  "name": "TransitVoice - Secure Offline Transport Assistance",
+  "description": "Secure voice-integrated offline transport assistance system with AI-based cybersecurity protection for Coimbatore local bus transport.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

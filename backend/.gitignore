@@ -1,0 +1,10 @@
+venv/
+whisper.cpp/
+__pycache__/
+services/__pycache__/
+
+*.wav
+*.onnx
+*.onnx.json
+
+transport.db

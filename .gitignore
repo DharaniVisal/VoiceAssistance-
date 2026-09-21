@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Audio files
+backend/*.wav
+backend/*.mp3
+
+# Environment files
+frontend/.env
+backend/.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+backend/*.zip
