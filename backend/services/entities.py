@@ -20,6 +20,7 @@ def extract_entities(text):
     if match:
         entities["source"] = match.group(1).strip(" ?!.,")
         entities["destination"] = match.group(2).strip(" ?!.,")
+        entities["destination"] = entities["destination"].replace(" I'm", "")
 
     # Tamil: X-இலிருந்து Y-க்கு
     match = re.search(r"(.+?)இலிருந்து\s+(.+?)(?:க்கு|க்குத்)", text)

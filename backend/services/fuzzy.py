@@ -38,6 +38,10 @@ def match_place(name):
         "gandhipuram": "Gandhipuram",
 
         # Ukkadam
+       # Ukkadam
+        # Ukkadam
+        "god": "Ukkadam",
+        "god i am": "Ukkadam",
         "kadam": "Ukkadam",
         "okadam": "Ukkadam",
         "oka ram": "Ukkadam",
@@ -45,7 +49,6 @@ def match_place(name):
         "oka kadam": "Ukkadam",
         "ukkadham": "Ukkadam",
         "ukkadam": "Ukkadam",
-
         # Peelamedu
         "peela medu": "Peelamedu",
         "peelamedu": "Peelamedu",
